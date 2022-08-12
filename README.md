@@ -1,5 +1,5 @@
 # FoodieU
-Company Name - FoodieU
+*Company Name - FoodieU
 
 Team id - Team WD1423
 
